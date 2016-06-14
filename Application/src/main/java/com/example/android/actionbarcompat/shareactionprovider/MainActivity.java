@@ -74,7 +74,7 @@ public class MainActivity extends ActionBarActivity {
     // BEGIN_INCLUDE(get_sap)
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu resource
+        // Inflate the menu resource by szh
         getMenuInflater().inflate(R.menu.main_menu, menu);
 
         // Retrieve the share menu item
